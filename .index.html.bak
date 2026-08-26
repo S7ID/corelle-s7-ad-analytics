@@ -140,104 +140,37 @@
     </div>
     <div class="badges">
       <span class="s7chip"><span class="by">By</span><img src="s7-logo.png" alt="Sector 7 HQ" width="24" height="22" /></span>
-      <span class="pill live"><span class="dotpulse"></span>Festive Edits — LIVE</span>
-      <span class="pill">25–30 Aug 2026 · updated 26 Aug 12:08 IST</span>
+      <span class="pill live"><span class="dotpulse"></span>Monsoon Mania — LIVE</span>
+      <span class="pill">90-day window · 11 Apr – 9 Jul 2026</span>
       <button class="toggle" id="themeToggle" aria-label="Toggle theme">◐ Theme</button>
     </div>
   </header>
 
   <div class="tabbar" id="tabbar" role="tablist" aria-label="Campaigns">
-    <button class="tabbtn" id="tab-fe" role="tab" aria-selected="true" aria-controls="panel-fe">Festive Edits <span class="st on">LIVE</span></button>
-    <button class="tabbtn" id="tab-fs" role="tab" aria-selected="false" aria-controls="panel-fs">Freedom Sale <span class="st off">CLOSED</span></button>
+    <button class="tabbtn" id="tab-fs" role="tab" aria-selected="true" aria-controls="panel-fs">Freedom Sale <span class="st on">LIVE</span></button>
     <button class="tabbtn" id="tab-mm" role="tab" aria-selected="false" aria-controls="panel-mm">Monsoon Mania <span class="st off">CLOSED</span></button>
   </div>
 
-  <section class="tabpanel" id="panel-fe" role="tabpanel" aria-labelledby="tab-fe">
+  <section class="tabpanel" id="panel-fs" role="tabpanel" aria-labelledby="tab-fs">
 
   <div class="scope" style="border-left:3px solid var(--good)">
-    <b>🔴 LIVE — Festive Edits (Rakshabandhan + Onam).</b> Running <b>25–30 Aug 2026</b>.
-    Six Meta ad sets — <b>five image creatives isolated one-per-ad-set</b> plus the catalogue engine — and Google Shopping.
-    Targeting <b>India · 25–54 · all genders</b>, Advantage Audience off. Figures cover <b>25–26 Aug</b>; 26 Aug is a partial day (to 12:08 IST).
-  </div>
-
-  <h2>Festive Edits — headline</h2>
-  <div class="grid2">
-    <div class="card cmp islive">
-      <div class="cmp-h"><span class="pill live"><span class="dotpulse"></span>Festive Edits · LIVE</span><span class="cmp-date">25–30 Aug 2026</span></div>
-      <div class="mer"><span class="ml">Blended<br>MER</span><span class="mv">4.69×</span><span class="mf">₹29,582 store revenue<br>÷ ₹6,305 spend · 7 orders</span></div>
-      <div class="cmp-grid">
-        <div class="s"><div class="k">Store Revenue</div><div class="v">₹29,582</div></div>
-        <div class="s"><div class="k">Orders</div><div class="v">7</div></div>
-        <div class="s"><div class="k">AOV</div><div class="v">₹4,226</div></div>
-        <div class="s"><div class="k">Ad Spend</div><div class="v">₹6,305</div></div>
-        <div class="s"><div class="k">Meta ROAS</div><div class="v">1.90×</div></div>
-        <div class="s"><div class="k">Google</div><div class="v">just live</div></div>
-      </div>
-      <p class="cap" style="margin:16px 0 0"><b>Day 1 was catalogue-only</b> — the five image ad sets were still in Meta review and spent ₹0 on 25 Aug. They began delivering this morning, so image performance below is roughly half a day of data.</p>
-    </div>
-
-    <div class="card">
-      <h3 style="margin-top:0">Structure — the fix for last flight's biggest loss</h3>
-      <p class="cap">Freedom Sale put five creatives in <b>one</b> ad set, so Meta pooled 44% of budget behind its weakest performer (1.22×) while the 7.45× creative was starved — an estimated <b>₹35–60k of forgone revenue</b>.</p>
-      <p class="cap" style="margin-top:10px">This flight each creative sits in <b>its own ad set with its own ₹1,200/day</b>. Budget physically cannot pool. Losers get cut at checkpoint and their budget moves to winners.</p>
-      <table style="margin-top:14px">
-        <tr><td>Meta image — 5 ad sets</td><td class="r">₹1,200/day each</td></tr>
-        <tr><td>Meta catalogue — DPA, 94 in-stock SKUs</td><td class="r">₹6,000/day</td></tr>
-        <tr><td>Google Shopping — bid ₹20</td><td class="r">₹6,000/day</td></tr>
-        <tr class="tot"><td><b>Total</b></td><td class="r"><b>₹18,000/day</b></td></tr>
-      </table>
-    </div>
-  </div>
-
-  <h2>Creative leaderboard — 26 Aug (half day)</h2>
-  <div class="card">
-    <table>
-      <thead><tr><th>Creative</th><th class="r">Spend</th><th class="r">CTR</th><th class="r">ATC</th><th class="r">Checkouts</th><th class="r">Cost/checkout</th><th class="r">ROAS</th></tr></thead>
-      <tbody>
-        <tr><td><b>Make Every Celebration Shine</b> (red) <span class="st on">LEADER</span></td><td class="r">₹771</td><td class="r">8.06%</td><td class="r">19</td><td class="r">4</td><td class="r hi">₹193</td><td class="r hi">3.21×</td></tr>
-        <tr><td>Serve Joy This Festive Season</td><td class="r">₹686</td><td class="r">7.98%</td><td class="r">5</td><td class="r">3</td><td class="r hi">₹229</td><td class="r">—</td></tr>
-        <tr><td>Make Every Celebration Shine (cream)</td><td class="r">₹732</td><td class="r hi">8.76%</td><td class="r">13</td><td class="r">0</td><td class="r">—</td><td class="r">—</td></tr>
-        <tr><td>Set The Table For Celebration</td><td class="r">₹674</td><td class="r">8.10%</td><td class="r">4</td><td class="r">1</td><td class="r">₹674</td><td class="r">—</td></tr>
-        <tr><td>Festive Tables, Made Memorable <span class="st off">LAGGING</span></td><td class="r">₹603</td><td class="r lo">5.56%</td><td class="r">3</td><td class="r">0</td><td class="r">—</td><td class="r">—</td></tr>
-        <tr class="tot"><td><b>Catalogue (DPA)</b></td><td class="r"><b>₹1,771</b></td><td class="r">4.52%</td><td class="r">25</td><td class="r">3</td><td class="r">₹590</td><td class="r hi"><b>5.37×</b></td></tr>
-      </tbody>
-    </table>
-    <p class="cap" style="margin:14px 0 0"><b>This table is the whole point of the new structure.</b> On half a day, <b>Shine (red)</b> is already the clear leader — most add-to-carts, cheapest checkout at ₹193, and the only image purchase. <b>Festive Tables</b> is the laggard on every metric: worst CTR, highest CPM, no checkouts. Last flight this would have been invisible and Meta would quietly have funded the loser.</p>
-  </div>
-
-  <h2>What to watch</h2>
-  <div class="grid2">
-    <div class="card"><h3 style="margin-top:0">⚠️ The free gift does not exist</h3>
-      <p class="cap">All five creatives promise a <b>free 6-pc stackable glass set</b> at ₹3,350 / ₹5,250. All three candidate SKUs — 500610393, 500610395, 502910059 — are at <b>0 units, availableForSale false, policy DENY</b>. Customers hitting the threshold receive nothing, silently. Restocking ~30–40 units clears it.</p></div>
-    <div class="card"><h3 style="margin-top:0">⚠️ Three versions of one offer</h3>
-      <p class="cap">The ad says 210ml/350ml Peggy Oliver. The site marquee says <b>Corelle 310ml worth ₹999 on selected dinner sets</b>. The cart rule still checks <b>post-discount total</b> instead of merchandise subtotal — the unfixed Freedom Sale bug. Three different promises, one campaign.</p></div>
-    <div class="card"><h3 style="margin-top:0">Stock is the ceiling</h3>
-      <p class="cap">The landing collection holds <b>306 products but 220 are out of stock (72%)</b>. Only <b>93 units above ₹3,350</b> and <b>19 above ₹5,250</b> — and that upper tier is what drove last flight's ₹5,090 AOV. Media cannot outrun inventory.</p></div>
-    <div class="card"><h3 style="margin-top:0">Catalogue feed — verified clean</h3>
-      <p class="cap">Product set <code>1943016582939955</code> is filtered to <b>in-stock Corelle only, 94 products</b>. The old Freedom Sale set was rebuilt from the new collection and <b>lost its availability filter</b> (228 products, no in-stock clause) — attaching it would have rebuilt the 10.29×→1.78× collapse.</p></div>
-  </div>
-
-  </section>
-
-  <section class="tabpanel" id="panel-fs" role="tabpanel" aria-labelledby="tab-fs" hidden>
-
-  <div class="scope" style="border-left:3px solid var(--good)">
-    <b>✅ CLOSED — Freedom Sale (Independence Day).</b> Ran <b>13–16 Aug 2026</b> across Meta image, Meta catalogue and Google Shopping.
-    Final figures below are the full flight, reconciled to Shopify <i>Total sales</i>. Meta conversions continued settling for 7 days after close.
+    <b>🔴 LIVE — Freedom Sale (Independence Day).</b> Both engines running since <b>13 Aug</b>, ending <b>16 Aug 23:59 IST</b>.
+    Targeting rebuilt on the last-90-day data: <b>India · 25–54 · all genders</b>, Advantage Audience off.
+    Figures below cover <b>13–14 Aug</b>; 14 Aug is a partial day.
   </div>
 
   <h2>Freedom Sale — headline</h2>
   <div class="grid2">
     <div class="card cmp islive">
-      <div class="cmp-h"><span class="pill">Freedom Sale · CLOSED</span><span class="cmp-date">13–16 Aug 2026 · 4 days</span></div>
-      <div class="mer"><span class="ml">Blended<br>MER</span><span class="mv">4.47×</span><span class="mf">₹3,14,073 store revenue<br>÷ ₹70,318 spend · 52 orders</span></div>
+      <div class="cmp-h"><span class="pill live"><span class="dotpulse"></span>Freedom Sale · LIVE</span><span class="cmp-date">13–16 Aug 2026</span></div>
+      <div class="mer"><span class="ml">Blended<br>MER</span><span class="mv">13.68×</span><span class="mf">₹1,20,247 store revenue<br>÷ ₹8,787 spend · 19 orders</span></div>
       <div class="cmp-grid">
-        <div class="s"><div class="k">Store Revenue</div><div class="v">₹3.14L</div></div>
-        <div class="s"><div class="k">Orders</div><div class="v">52</div></div>
-        <div class="s"><div class="k">AOV</div><div class="v hi">₹5,090</div></div>
-        <div class="s"><div class="k">Ad Spend</div><div class="v">₹70,318</div></div>
-        <div class="s"><div class="k">Meta ROAS</div><div class="v">3.21×</div></div>
-        <div class="s"><div class="k">Google ROAS</div><div class="v">1.70×</div></div>
+        <div class="s"><div class="k">Store Revenue</div><div class="v">₹1.20L</div></div>
+        <div class="s"><div class="k">Orders</div><div class="v">19</div></div>
+        <div class="s"><div class="k">AOV</div><div class="v">₹5,299</div></div>
+        <div class="s"><div class="k">Ad Spend</div><div class="v">₹8,787</div></div>
+        <div class="s"><div class="k">Meta ROAS</div><div class="v hi">5.48×</div></div>
+        <div class="s"><div class="k">Frequency</div><div class="v">~1.6</div></div>
       </div>
       <p class="cap" style="margin:16px 0 0"><b>Far ahead of Monsoon Mania at the same stage.</b> AOV is <b>₹5,299</b> vs ₹3,855 last flight — the gift tiers are pulling much bigger baskets. Frequency ~1.6 means the audience is nowhere near saturated.</p>
     </div>
@@ -634,11 +567,9 @@ hbars("fsrev", FSREV.map(r=>[r[0],r[1],undefined,null]), {roas:false, valLabel:"
     });
     try{ history.replaceState(null,'', on_hash(id)); }catch(e){}
   }
-  const HASH={'tab-fe':'#festive-edits','tab-fs':'#freedom-sale','tab-mm':'#monsoon-mania'};
-  function on_hash(id){ return HASH[id]||'#festive-edits'; }
+  function on_hash(id){ return id==='tab-mm' ? '#monsoon-mania' : '#freedom-sale'; }
   tabs.forEach(t=>t.addEventListener('click',()=>show(t.id)));
-  const byHash=Object.entries(HASH).find(([,v])=>v===location.hash);
-  if(byHash) show(byHash[0]);
+  if(location.hash==='#monsoon-mania') show('tab-mm');
 })();
 
 </script>
